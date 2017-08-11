@@ -8,9 +8,7 @@
 /* http://filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html */
 
 html {
-	font-family: sans-serif; 
-	font-size: 100%;
-	line-height: 100%;		
+	font: 100%/1 sans-serif;
 }
 
 /* --- HTML5 display definitions --- */
